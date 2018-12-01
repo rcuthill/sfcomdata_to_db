@@ -1,3 +1,8 @@
+# Application directories
+logs
+sfcom_data
+data_types
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

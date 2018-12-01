@@ -1,0 +1,10 @@
+# Create a file with name ".env" at the same level as "Pipfile"
+DB_USER=db_user
+DB_PASSWORD=db_password
+DB_DIALECT_DRIVER=postgresql+psycopg2
+DB_NAME=db_name
+DEBUG=1
+SQLALCHEMY_TRACK_MODIFICATIONS=False
+DATA_FILES=path/to/sfcom/datafiles/
+DATAFILE_EXTS=["csv", "xls", "xlsx"]
+TYPE_JSON_PATH=path/to/directory/to/store/data_type_json_files/
